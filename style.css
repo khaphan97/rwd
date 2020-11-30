@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serifS;
+  font-weight: bold;
+}
+body {
+  background-image: url("https://cdn.hipwallpaper.com/i/75/68/8BWvUj.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+#container {
+  width: 960px;
+  margin: 0 auto;
+  line-height: 35px;
+  background-color: rgba(0, 0, 0, 0.411);
+  padding: 20px;
+}
+h1 {
+  color: #fff;
+}
+p {
+  color: #fff;
+  margin: 20px 0;
+}
+
+img {
+  width: 100%;
+}
